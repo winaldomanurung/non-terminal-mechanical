@@ -23,9 +23,9 @@ const lexend = localFont({
 export const metadata = {
   title: {
     template: '%s - Docs',
-    default: 'Mechanical-API.',
+    default: 'Non-Terminal Mechanical Services.',
   },
-  description: 'Note of all aspects of mechanical engineering at API.',
+  description: 'Document Reference.',
 }
 
 export default function RootLayout({ children }) {
