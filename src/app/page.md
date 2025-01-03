@@ -1,10 +1,12 @@
 ---
-title: Document Reference
+title: Non-Terminal Mechanical Services
 ---
 
-Dokumen referensi terkait dengan API. {% .lead %}
+Document Reference. {% .lead %}
 
-## Struktur Organisasi dan Jabatan
+This website is meant to provide an easy access to all documents related to Non-Terminal Mechanical Services.
+
+<!-- ## Struktur Organisasi dan Jabatan
 
 {% quick-links %}
 
@@ -47,4 +49,4 @@ Ini merupakan gagasan dan ide yang bisa kita lakukan untuk memperoleh sesuatu ya
 
 {% callout title="Pelajari tentang leadership!" %}
 Dengan belajar tentang leadership, kita bisa tahu apa yang harus kita lakukan dalam kondisi-kondisi tertentu yang tidak mengenakkan bagi tim.
-{% /callout %}
+{% /callout %} -->

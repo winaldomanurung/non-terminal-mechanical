@@ -1,7 +1,43 @@
 export const navigation = [
   {
     title: 'Doc',
-    links: [{ title: 'Document Reference', href: '/' }],
+    links: [{ title: 'Home', href: '/' }],
+  },
+
+  {
+    title: 'Drawing',
+    links: [
+      {
+        title: 'Shelter Kalayang T1',
+        href: '/docs/drawing/shelter-kalayang-t1',
+      },
+      {
+        title: 'Shelter Kalayang T2',
+        href: '/docs/drawing/shelter-kalayang-t2',
+      },
+      {
+        title: 'Shelter Kalayang T3',
+        href: '/docs/drawing/shelter-kalayang-t3',
+      },
+      {
+        title: 'Shelter Kalayang TIB',
+        href: '/docs/drawing/shelter-kalayang-tib',
+      },
+    ],
+  },
+
+  {
+    title: 'Manual Book',
+    links: [
+      {
+        title: 'Daikin VRV IV',
+        href: '/docs/manual/daikin-vrv-iv',
+      },
+      {
+        title: 'Daikin Ceiling Floor',
+        href: '/docs/manual/daikin-ceiling-floor',
+      },
+    ],
   },
 
   // {
@@ -14,69 +50,69 @@ export const navigation = [
   //   ],
   // },
 
-  {
-    title: 'AHU dan Chiller Railink',
-    links: [
-      {
-        title: 'Overview',
-        href: '/docs/ahu-chiller-railink/overview',
-      },
-    ],
-  },
+  // {
+  //   title: 'AHU dan Chiller Railink',
+  //   links: [
+  //     {
+  //       title: 'Overview',
+  //       href: '/docs/ahu-chiller-railink/overview',
+  //     },
+  //   ],
+  // },
 
-  {
-    title: 'AC Shelter Kalayang T1',
-    links: [
-      {
-        title: 'System',
-        href: '/docs/ac-shelter-kalayang-t1/system',
-      },
-      {
-        title: 'Indoor Unit',
-        href: '/docs/ac-shelter-kalayang-t1/indoor',
-      },
-      {
-        title: 'Outdoor Unit',
-        href: '/docs/ac-shelter-kalayang-t1/outdoor',
-      },
-    ],
-  },
+  // {
+  //   title: 'AC Shelter Kalayang T1',
+  //   links: [
+  //     {
+  //       title: 'System',
+  //       href: '/docs/ac-shelter-kalayang-t1/system',
+  //     },
+  //     {
+  //       title: 'Indoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t1/indoor',
+  //     },
+  //     {
+  //       title: 'Outdoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t1/outdoor',
+  //     },
+  //   ],
+  // },
 
-  {
-    title: 'AC Shelter Kalayang T2',
-    links: [
-      {
-        title: 'System',
-        href: '/docs/ac-shelter-kalayang-t2/system',
-      },
-      {
-        title: 'Indoor Unit',
-        href: '/docs/ac-shelter-kalayang-t2/indoor',
-      },
-      {
-        title: 'Outdoor Unit',
-        href: '/docs/ac-shelter-kalayang-t2/outdoor',
-      },
-    ],
-  },
+  // {
+  //   title: 'AC Shelter Kalayang T2',
+  //   links: [
+  //     {
+  //       title: 'System',
+  //       href: '/docs/ac-shelter-kalayang-t2/system',
+  //     },
+  //     {
+  //       title: 'Indoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t2/indoor',
+  //     },
+  //     {
+  //       title: 'Outdoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t2/outdoor',
+  //     },
+  //   ],
+  // },
 
-  {
-    title: 'AC Shelter Kalayang T3',
-    links: [
-      {
-        title: 'System',
-        href: '/docs/ac-shelter-kalayang-t3/system',
-      },
-      {
-        title: 'Indoor Unit',
-        href: '/docs/ac-shelter-kalayang-t3/indoor',
-      },
-      {
-        title: 'Outdoor Unit',
-        href: '/docs/ac-shelter-kalayang-t3/outdoor',
-      },
-    ],
-  },
+  // {
+  //   title: 'AC Shelter Kalayang T3',
+  //   links: [
+  //     {
+  //       title: 'System',
+  //       href: '/docs/ac-shelter-kalayang-t3/system',
+  //     },
+  //     {
+  //       title: 'Indoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t3/indoor',
+  //     },
+  //     {
+  //       title: 'Outdoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-t3/outdoor',
+  //     },
+  //   ],
+  // },
   // {
   //   title: 'HVAC Troubleshooting',
   //   links: [
@@ -87,23 +123,23 @@ export const navigation = [
   //   ],
   // },
 
-  {
-    title: 'AC Shelter Kalayang TIB',
-    links: [
-      {
-        title: 'System',
-        href: '/docs/ac-shelter-kalayang-tib/system',
-      },
-      {
-        title: 'Indoor Unit',
-        href: '/docs/ac-shelter-kalayang-tib/indoor',
-      },
-      {
-        title: 'Outdoor Unit',
-        href: '/docs/ac-shelter-kalayang-tib/outdoor',
-      },
-    ],
-  },
+  // {
+  //   title: 'AC Shelter Kalayang TIB',
+  //   links: [
+  //     {
+  //       title: 'System',
+  //       href: '/docs/ac-shelter-kalayang-tib/system',
+  //     },
+  //     {
+  //       title: 'Indoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-tib/indoor',
+  //     },
+  //     {
+  //       title: 'Outdoor Unit',
+  //       href: '/docs/ac-shelter-kalayang-tib/outdoor',
+  //     },
+  //   ],
+  // },
   // {
   //   title: 'Escalator',
   //   links: [
